@@ -19,3 +19,34 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+
+.truncate {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.h-40 {
+  height: 10rem; 
+}
+
+.card {
+  background-color: white;
+}
+
+.btn {
+  border-radius: 0.5rem;
+  padding: 0.25rem;
+}
+
+.bg-hero {
+  background: #FCF5C1;
+  /* background: radial-gradient(50% 50% at 50% 50%, #d6edff 0%, #BBDEFB 85.62%); */
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
