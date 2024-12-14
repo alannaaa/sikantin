@@ -5,7 +5,7 @@ export default function Home() {
 
       {/* Navbar */}
       <div className="w-full h-[95px] px-[23px] py-[17px] left-0 top-0 absolute bg-[#fffad8] justify-start items-center gap-[21px] inline-flex">
-        <img src="assets/images/starNavbar.svg" />
+        <img src="assets/images/StarNavbar.svg" />
         <div className="text-black text-4xl font-bold">SiKantin</div>
       </div>
 
