@@ -65,7 +65,7 @@ export default function Home() {
           <img className="" src="assets/images/menu3.png" />
         </div>
         <button className="before:ease relative relative px-6 py-2 bg-[#ffd603] text-black text-lg md:text-3xl font-medium rounded-full overflow-hidden shadow-md transition-all before:absolute before:right-0 before:top-0 before:h-16 before:w-6 before:translate-x-24 before:rotate-6 before:bg-white before:opacity-20 before:duration-700 hover:shadow-2xl hover:bg-[#FFDE34] hover:before:-translate-x-72">
-              <span className="relative z-10">Pesan sekarang</span>
+              <span className="relative z-10">Lihat menu lainnya</span>
             </button>
       </div>
     </div>
