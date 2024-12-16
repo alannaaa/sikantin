@@ -20,9 +20,11 @@ export default function Home() {
           </div>
 
           <div className="my-10">
-            <button className="before:ease relative relative px-6 py-2 bg-[#ffd603] text-black text-lg md:text-3xl font-medium rounded-full overflow-hidden shadow-md transition-all before:absolute before:right-0 before:top-0 before:h-16 before:w-6 before:translate-x-24 before:rotate-6 before:bg-white before:opacity-20 before:duration-700 hover:shadow-2xl hover:bg-[#FFDE34] hover:before:-translate-x-72">
+          <a href="https://www.figma.com/proto/AsOe2gu0maVYezV4EraTlv/SiKantin-PPD?node-id=35-428&p=f&t=6xJXeXnbzgAInzT2-1&scaling=min-zoom&content-scaling=fixed&page-id=31%3A399" target="_blank" rel="noopener noreferrer">
+            <button className="before:ease relative px-6 py-2 bg-[#ffd603] text-black text-lg md:text-3xl font-medium rounded-full overflow-hidden shadow-md transition-all before:absolute before:right-0 before:top-0 before:h-16 before:w-6 before:translate-x-24 before:rotate-6 before:bg-white before:opacity-20 before:duration-700 hover:shadow-2xl hover:bg-[#FFDE34] hover:before:-translate-x-72">
               <span className="relative z-10">Pesan sekarang</span>
             </button>
+          </a>
           </div>
         </div>
 
@@ -53,10 +55,10 @@ export default function Home() {
           </div>
           <div className="flex flex-col justify-self-start justify-center items-center gap-[22px] inline-flex">
             <div className="text-black text-xl md:text-3xl 2xl:text-4xl text-center">Semua di aplikasi <span className="font-semibold">SiKantin</span></div>
-            <div className="justify-start items-center gap-2 md:gap-[25px] inline-flex">
+            <a href="https://www.figma.com/proto/AsOe2gu0maVYezV4EraTlv/SiKantin-PPD?node-id=35-428&p=f&t=6xJXeXnbzgAInzT2-1&scaling=min-zoom&content-scaling=fixed&page-id=31%3A399" target="_blank" rel="noopener noreferrer" className="justify-start items-center gap-2 md:gap-[25px] inline-flex">
               <img className="w-auto h-[40px] md:h-[79px]" src="assets/images/appstore.png" />
               <img className="w-auto h-[40px] md:h-[75px]" src="assets/images/gplay.png" />
-            </div>
+            </a>
           </div>
         </div>
       </div>
@@ -69,9 +71,11 @@ export default function Home() {
           <img className="" src="assets/images/menu 2.png" />
           <img className="" src="assets/images/menu3.png" />
         </div>
+        <a href="https://www.figma.com/proto/AsOe2gu0maVYezV4EraTlv/SiKantin-PPD?node-id=35-428&p=f&t=6xJXeXnbzgAInzT2-1&scaling=min-zoom&content-scaling=fixed&page-id=31%3A399" target="_blank" rel="noopener noreferrer">
         <button className="before:ease relative relative px-6 py-2 bg-[#ffd603] text-black text-lg md:text-3xl font-medium rounded-full overflow-hidden shadow-md transition-all before:absolute before:right-0 before:top-0 before:h-16 before:w-6 before:translate-x-24 before:rotate-6 before:bg-white before:opacity-20 before:duration-700 hover:shadow-2xl hover:bg-[#FFDE34] hover:before:-translate-x-72">
           <span className="relative z-10">Lihat menu lainnya</span>
         </button>
+        </a>
       </div>
 
 
@@ -135,7 +139,7 @@ export default function Home() {
                     <h4 className="text-lg text-gray-900 font-medium mb-7">Subscribe</h4>
                     <p className="text-sm text-gray-500 leading-6 mb-7">Dapatkan pemberitahuan dan kabar terbaru</p>
                     <a href="javascript:;"  className="flex items-center justify-center gap-2 border border-[#ffd603] rounded-full py-2 px-6 w-fit lg:mx-0  text-sm text-black font-semibold transition-all duration-500 hover:bg-[#ffd603]">Subscribe<svg width="15" height="12" viewBox="0 0 15 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M1.25 6L13.25 6M9.5 10.5L13.4697 6.53033C13.7197 6.28033 13.8447 6.15533 13.8447 6C13.8447 5.84467 13.7197 5.71967 13.4697 5.46967L9.5 1.5" stroke="#000000" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path d="M1.25 6L13.25 6M9.5 10.5L13.4697 6.53033C13.7197 6.28033 13.8447 6.15533 13.8447 6C13.8447 5.84467 13.7197 5.71967 13.4697 5.46967L9.5 1.5" stroke="#000000" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"/>
                         </svg>
                         </a>
                 </div>
@@ -166,7 +170,7 @@ export default function Home() {
                         </a>
                         <a href="javascript:;"  className="relative w-8 h-8 rounded-full transition-all duration-500 flex justify-center items-center bg-[#FF0000]  hover:bg-gray-900 ">
                             <svg className="w-[1.25rem] h-[0.875rem] text-white" viewBox="0 0 16 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <path fill-rule="evenodd" clip-rule="evenodd" d="M13.9191 1.10651C14.558 1.27906 15.0602 1.78251 15.2299 2.42069C15.5388 3.57887 15.5388 5.99687 15.5388 5.99687C15.5388 5.99687 15.5388 8.41487 15.2299 9.57306C15.0578 10.2136 14.5556 10.7171 13.9191 10.8872C12.7638 11.1969 8.12875 11.1969 8.12875 11.1969C8.12875 11.1969 3.49603 11.1969 2.33844 10.8872C1.69952 10.7147 1.19735 10.2112 1.0276 9.57306C0.71875 8.41487 0.71875 5.99687 0.71875 5.99687C0.71875 5.99687 0.71875 3.57887 1.0276 2.42069C1.1997 1.78015 1.70188 1.27669 2.33844 1.10651C3.49603 0.796875 8.12875 0.796875 8.12875 0.796875C8.12875 0.796875 12.7638 0.796875 13.9191 1.10651ZM10.4981 5.99687L6.6481 8.22578V3.76796L10.4981 5.99687Z" fill="white"/>
+                                <path fillRule="evenodd" clipRule="evenodd" d="M13.9191 1.10651C14.558 1.27906 15.0602 1.78251 15.2299 2.42069C15.5388 3.57887 15.5388 5.99687 15.5388 5.99687C15.5388 5.99687 15.5388 8.41487 15.2299 9.57306C15.0578 10.2136 14.5556 10.7171 13.9191 10.8872C12.7638 11.1969 8.12875 11.1969 8.12875 11.1969C8.12875 11.1969 3.49603 11.1969 2.33844 10.8872C1.69952 10.7147 1.19735 10.2112 1.0276 9.57306C0.71875 8.41487 0.71875 5.99687 0.71875 5.99687C0.71875 5.99687 0.71875 3.57887 1.0276 2.42069C1.1997 1.78015 1.70188 1.27669 2.33844 1.10651C3.49603 0.796875 8.12875 0.796875 8.12875 0.796875C8.12875 0.796875 12.7638 0.796875 13.9191 1.10651ZM10.4981 5.99687L6.6481 8.22578V3.76796L10.4981 5.99687Z" fill="white"/>
                                 </svg>
                                   
                         </a>
